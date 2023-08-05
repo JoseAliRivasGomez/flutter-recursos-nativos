@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "AT8ABU7AAG.com.joserivasgomez.recursosnativos",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

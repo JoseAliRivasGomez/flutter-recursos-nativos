@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.joserivasgomez.recursosnativos",
+      "sha256_cert_fingerprints":
+      ["E0:E1:DB:D7:28:A1:02:2F:91:3C:AC:B2:F8:FD:B7:BC:E3:E9:51:35:EB:60:EF:2B:88:6E:A4:61:9F:14:64:F1"]
+    }
+  }]
+  
