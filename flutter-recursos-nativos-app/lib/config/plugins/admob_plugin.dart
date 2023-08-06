@@ -5,17 +5,17 @@ import 'package:google_mobile_ads/google_mobile_ads.dart';
 
 // ! Replace this test ad unit with your own ad unit.
 final adBannerId = Platform.isAndroid
-    ? 'ca-app-pub-3863163313834291/1979108452'
+    ? 'ca-app-pub-3940256099942544/6300978111'
     : 'ca-app-pub-3940256099942544/2934735716';
 
 // ! Replace this test ad unit with your own ad unit.
 final adInterstitialId = Platform.isAndroid
-  ? 'ca-app-pub-3863163313834291/6759789707'
+  ? 'ca-app-pub-3940256099942544/1033173712'
   : 'ca-app-pub-3940256099942544/4411468910';
 
 // ! Replace this test ad unit with your own ad unit.
 final adRewardedId = Platform.isAndroid
-    ? 'ca-app-pub-3863163313834291/5612065858'
+    ? 'ca-app-pub-3940256099942544/5224354917'
     : 'ca-app-pub-3940256099942544/1712485313';
 
 

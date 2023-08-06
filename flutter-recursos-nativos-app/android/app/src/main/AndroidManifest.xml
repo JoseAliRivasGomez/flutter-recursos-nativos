@@ -33,7 +33,7 @@
             android:value="ca-app-pub-3863163313834291~5695008095"/>
 
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyAsjORSQJdPad-RoPLqmkBnodir-3Xq80A"/>
+               android:value="AIzaSyB1P_fo76SuT4j28epMZyMIK1UzlesePPg"/>
         
         <activity
             android:name=".MainActivity"
@@ -65,7 +65,7 @@
 
                 <data android:scheme="http" />
                 <data android:scheme="https" />
-                <data android:host="pokemon-deep-linking.up.railway.app" />
+                <data android:host="pokemon-deep-linking-app.up.railway.app" />
 
 
             </intent-filter>

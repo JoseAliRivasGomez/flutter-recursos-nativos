@@ -11,16 +11,18 @@ cd android
 ./gradlew signingReport
 ```
 
+Cambios en Android Manifest (website url) e info.plist (iOS) (FlutterDeepLinkingEnabled true)
+
+Agregar capacidades de la app (iOS) (Associated Domains) (Puede durar 1 dia en funcionar)
 
 ## Pruebas IOS
 ```
-xcrun simctl openurl booted https://pokemon-deep-linking.up.railway.app/pokemons/1/
+xcrun simctl openurl booted https://pokemon-deep-linking-app.up.railway.app/pokemons/10/
 
-xcrun simctl openurl booted https://pokemon-deep-linking.up.railway.app/pokemons
+xcrun simctl openurl booted https://pokemon-deep-linking-app.up.railway.app/pokemons
 ```
 
-## Cambiar API Keys de Google Maps
-
+## Cambiar API Keys de Google Maps https://pub.dev/packages/google_maps_flutter
 
 ## Generador de Código ( ISAR, Riverpod )
 ```

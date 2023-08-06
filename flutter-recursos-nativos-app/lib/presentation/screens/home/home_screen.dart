@@ -25,7 +25,7 @@ class HomeScreen extends ConsumerWidget {
                 slivers: [
               
                   SliverAppBar(
-                    title: const Text('Miscelaneos'),
+                    title: const Text('Recursos Nativos'),
                     actions: [
                       IconButton(onPressed: (){
                         context.push('/permissions');

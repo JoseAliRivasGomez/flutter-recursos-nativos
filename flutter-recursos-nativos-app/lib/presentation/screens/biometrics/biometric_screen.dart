@@ -25,7 +25,7 @@ class BiometricScreen extends ConsumerWidget {
             FilledButton.tonal(onPressed: (){
 
                ref.read( localAuthProvider.notifier )
-                .authenticateUser();
+                .authenticateUser(biometricOnly: false);
 
             }, child: const Text('Autenticar')),
 
