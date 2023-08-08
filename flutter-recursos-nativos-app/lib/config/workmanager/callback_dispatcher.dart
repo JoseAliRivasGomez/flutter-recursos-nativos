@@ -2,8 +2,8 @@ import 'package:miscelaneos/infrastructure/repositories/local_db_repository_impl
 import 'package:miscelaneos/infrastructure/repositories/pokemons_repository_impl.dart';
 import 'package:workmanager/workmanager.dart';
 
-const fetchBackgroundTaskKey = 'com.fernandoherrera.miscelaneos.fetch-background-pokemon';
-const fetchPeriodicBackgroundTaskKey = 'com.fernandoherrera.miscelaneos.fetch-background-pokemon';
+const fetchBackgroundTaskKey = 'com.joserivasgomez.recursosnativos.fetch-background-pokemon';
+const fetchPeriodicBackgroundTaskKey = 'com.joserivasgomez.recursosnativos.fetch-background-pokemon';
 
 
 

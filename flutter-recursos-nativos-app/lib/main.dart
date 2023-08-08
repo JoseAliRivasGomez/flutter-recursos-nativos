@@ -18,8 +18,8 @@ void main() async {
   );
 
   // Workmanager().registerOneOffTask(
-  //   "com.fernandoherrera.miscelaneos.simpleTask1",
-  //   "com.fernandoherrera.miscelaneos.simpleTask",
+  //   "com.joserivasgomez.recursosnativos.simpleTask1",
+  //   "com.joserivasgomez.recursosnativos.simpleTask",
   //   inputData: { 'hola': 'mundo' },
   //   constraints: Constraints(
   //       networkType: NetworkType.connected,

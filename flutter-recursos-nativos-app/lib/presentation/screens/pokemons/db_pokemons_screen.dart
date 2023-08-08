@@ -35,7 +35,7 @@ class DbPokemonsScreen extends ConsumerWidget {
               .registerOneOffTask(
                 fetchBackgroundTaskKey, 
                 fetchBackgroundTaskKey,
-                initialDelay: const Duration( seconds: 3),
+                initialDelay: const Duration( seconds: 1), //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
                 inputData: { 'howMany': 30 }
               );
 
